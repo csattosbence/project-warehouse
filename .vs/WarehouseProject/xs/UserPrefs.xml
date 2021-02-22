@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{9517F267-FBF6-4008-A18D-FC2DC69A1D96}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WarehouseProject/Program.cs">
+    <Files>
+      <File FileName="WarehouseProject/Program.cs" Line="21" Column="1" />
+      <File FileName="WarehouseProject/Phone.cs" Line="35" Column="32" />
+      <File FileName="WarehouseProject/Warehouse.cs" Line="111" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WarehouseProject" expanded="True">
+            <Node name="WarehouseProject" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WarehouseProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

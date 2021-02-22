@@ -1,0 +1,12 @@
+/Users/bence/Projects/WarehouseProject/WarehouseProject/bin/Debug/netcoreapp3.1/WarehouseProject.deps.json
+/Users/bence/Projects/WarehouseProject/WarehouseProject/bin/Debug/netcoreapp3.1/WarehouseProject.runtimeconfig.json
+/Users/bence/Projects/WarehouseProject/WarehouseProject/bin/Debug/netcoreapp3.1/WarehouseProject.runtimeconfig.dev.json
+/Users/bence/Projects/WarehouseProject/WarehouseProject/bin/Debug/netcoreapp3.1/WarehouseProject.dll
+/Users/bence/Projects/WarehouseProject/WarehouseProject/bin/Debug/netcoreapp3.1/WarehouseProject.pdb
+/Users/bence/Projects/WarehouseProject/WarehouseProject/obj/Debug/netcoreapp3.1/WarehouseProject.csprojAssemblyReference.cache
+/Users/bence/Projects/WarehouseProject/WarehouseProject/obj/Debug/netcoreapp3.1/WarehouseProject.AssemblyInfoInputs.cache
+/Users/bence/Projects/WarehouseProject/WarehouseProject/obj/Debug/netcoreapp3.1/WarehouseProject.AssemblyInfo.cs
+/Users/bence/Projects/WarehouseProject/WarehouseProject/obj/Debug/netcoreapp3.1/WarehouseProject.csproj.CoreCompileInputs.cache
+/Users/bence/Projects/WarehouseProject/WarehouseProject/obj/Debug/netcoreapp3.1/WarehouseProject.dll
+/Users/bence/Projects/WarehouseProject/WarehouseProject/obj/Debug/netcoreapp3.1/WarehouseProject.pdb
+/Users/bence/Projects/WarehouseProject/WarehouseProject/obj/Debug/netcoreapp3.1/WarehouseProject.genruntimeconfig.cache
